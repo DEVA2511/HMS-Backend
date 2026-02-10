@@ -1,0 +1,13 @@
+package com.hms.media.config;
+
+import feign.RequestInterceptor;
+import feign.RequestTemplate;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class FeignClientIntersect implements RequestInterceptor {
+    @Override
+    public void apply(RequestTemplate requestTemplate) {
+requestTemplate.header("X-Secret-Key","SECRET");
+    }
+}

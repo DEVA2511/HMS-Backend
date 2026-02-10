@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b439a82d-4d8b-4b1a-9adf-4001805f1cc7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/media/src/main/java/com/hms/media/clients/ProfileClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/src/main/java/com/hms/media/clients/ProfileClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/media/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/devar/Downloads/Hms Project/HMS/Backend" value="384UiCCGPx9sITNXdyIvjicY3RH" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="edit-panel" value="GPT-5 mini" />
+      <entry key="chat-panel" value="GPT-5 mini" />
+      <entry key="agent-panel" value="GPT-5 mini" />
+    </selectedModels>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DEVA2511&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DEVA2511/HMS.git&quot;,
+    &quot;accountId&quot;: &quot;72d4218b-74d2-4095-b473-3ca9cea63e6e&quot;
+  }
+}</component>
+  <component name="HttpClientOnboardingState">{
+  &quot;isOnboardingCommentShown&quot;: true
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="384UiCCGPx9sITNXdyIvjicY3RH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "HTTP Request.generated-requests | #2.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.AppointmentApplication.executor": "Run",
+    "Spring Boot.ErukaServerApplication.executor": "Run",
+    "Spring Boot.GatewayMsApplication.executor": "Run",
+    "Spring Boot.MediaApplication.executor": "Run",
+    "Spring Boot.PharmacyApplication.executor": "Run",
+    "Spring Boot.ProfileMsApplication.executor": "Run",
+    "Spring Boot.UserMsApplication.executor": "Run",
+    "git-widget-placeholder": "dockerfile1",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/devar/Downloads/Hms Project/HMS/Backend/Appointment",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\devar\Downloads\Hms Project\HMS\Backend\Appointment" />
+      <recent name="C:\Users\devar\Downloads\Hms Project\HMS\Backend\Eruka-Server" />
+      <recent name="C:\Users\devar\Downloads\Hms Project\HMS\Backend\GatewayMS" />
+      <recent name="C:\Users\devar\Downloads\Hms Project\HMS\Backend\media" />
+      <recent name="C:\Users\devar\Downloads\Hms Project\HMS\Backend\pharmacy" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="excludedTypes">
+      <set>
+        <option value="HttpClient.HttpRequestRunConfigurationType" />
+      </set>
+    </option>
+    <option name="configurationStatuses">
+      <map>
+        <entry key="SpringBootApplicationConfigurationType">
+          <value>
+            <map>
+              <entry key="AppointmentApplication" value="STOPPED" />
+              <entry key="ErukaServerApplication" value="STOPPED" />
+              <entry key="GatewayMsApplication" value="STOPPED" />
+              <entry key="MediaApplication" value="STOPPED" />
+              <entry key="PharmacyApplication" value="STOPPED" />
+              <entry key="ProfileMsApplication" value="STOPPED" />
+              <entry key="UserMsApplication" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserMsApplication">
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" executionIdentifier="#2" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="AppointmentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Appointment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hms.appointment.AppointmentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErukaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Eruka-Server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hms.erula_server.ErukaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="GatewayMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hms.gateway.GatewayMsApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hms.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="media" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hms.media.MediaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PharmacyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="pharmacy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hms.pharmacy.PharmacyApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hms.pharmacy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfileMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ProfileMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hms.profile.ProfileMsApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hms.profile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="UserMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hms.user.UserMsApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hms.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.UserMsApplication" />
+        <item itemvalue="Spring Boot.ProfileMsApplication" />
+        <item itemvalue="Spring Boot.PharmacyApplication" />
+        <item itemvalue="Spring Boot.GatewayMsApplication" />
+        <item itemvalue="HTTP Request.generated-requests | #2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Physical" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b439a82d-4d8b-4b1a-9adf-4001805f1cc7" name="Changes" comment="" />
+      <created>1768058463280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768058463280</updated>
+      <workItem from="1768058465177" duration="4324000" />
+      <workItem from="1768122995897" duration="988000" />
+      <workItem from="1768151344488" duration="352000" />
+      <workItem from="1768151735836" duration="57000" />
+      <workItem from="1768151821492" duration="725000" />
+      <workItem from="1768201038634" duration="156000" />
+      <workItem from="1768201308711" duration="10222000" />
+      <workItem from="1768219835828" duration="4525000" />
+      <workItem from="1768229271720" duration="5339000" />
+      <workItem from="1768278741562" duration="1422000" />
+      <workItem from="1768295122845" duration="36000" />
+      <workItem from="1769429537186" duration="3000" />
+      <workItem from="1769431891544" duration="906000" />
+      <workItem from="1770194386421" duration="5595000" />
+      <workItem from="1770203546734" duration="1905000" />
+      <workItem from="1770216524626" duration="3207000" />
+      <workItem from="1770273514232" duration="23433000" />
+      <workItem from="1770373748211" duration="5000" />
+      <workItem from="1770378147355" duration="3011000" />
+      <workItem from="1770386300365" duration="1477000" />
+      <workItem from="1770395979038" duration="832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

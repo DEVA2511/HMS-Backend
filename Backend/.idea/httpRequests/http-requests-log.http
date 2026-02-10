@@ -1,0 +1,27 @@
+GET http://localhost:8082/api/appointment/getMedicineByPatient/6
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-02-06T151429.500.json
+
+###
+
+GET http://localhost:8082/api/appointment/getMedicineByPatient/7
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-02-06T151424.500.json
+
+###
+
+GET http://localhost:8082/api/appointment/getMedicineByPatient/3
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-02-06T151416.500.json
+
+###
+
