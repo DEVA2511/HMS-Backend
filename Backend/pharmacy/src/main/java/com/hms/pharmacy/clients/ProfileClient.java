@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.List;
 
-@FeignClient(name="profileMS",configuration= FeignClientIntersect.class)
+@FeignClient(name="profileMS",url = "${profilems.url}", configuration= FeignClientIntersect.class)
 public interface ProfileClient {
 
     @GetMapping("/api/profile/doctor/exists/{id}")
