@@ -6,13 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b439a82d-4d8b-4b1a-9adf-4001805f1cc7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Appointment/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Appointment/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eruka-Server/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Eruka-Server/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GatewayMS/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/GatewayMS/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileMS/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileMS/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserMS/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/UserMS/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/media/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharmacy/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/pharmacy/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GatewayMS/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/GatewayMS/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
