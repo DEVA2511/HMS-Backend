@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b439a82d-4d8b-4b1a-9adf-4001805f1cc7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/media/src/main/java/com/hms/media/clients/ProfileClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/media/src/main/java/com/hms/media/clients/ProfileClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/media/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProfileMS/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileMS/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMS/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/UserMS/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMS/target/classes/com/hms/user/clients/ProfileClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserMS/target/classes/com/hms/user/clients/ProfileClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMS/target/classes/com/hms/user/config/CorsConfig$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserMS/target/classes/com/hms/user/config/CorsConfig$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMS/target/classes/com/hms/user/config/CorsConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserMS/target/classes/com/hms/user/config/CorsConfig.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +21,7 @@
   </component>
   <component name="CopilotPersistence">
     <persistenceIdMap>
+      <entry key="_C:/Users/devar/Downloads/HMS/BACKEND/Backend" value="39TDIyQlwVxlJKtP66Dl4qmilKe" />
       <entry key="_C:/Users/devar/Downloads/Hms Project/HMS/Backend" value="384UiCCGPx9sITNXdyIvjicY3RH" />
     </persistenceIdMap>
   </component>
@@ -36,7 +43,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -44,12 +51,12 @@
     &quot;assignee&quot;: &quot;DEVA2511&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/DEVA2511/HMS.git&quot;,
-    &quot;accountId&quot;: &quot;72d4218b-74d2-4095-b473-3ca9cea63e6e&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DEVA2511/HMS-Backend.git",
+    "accountId": "72d4218b-74d2-4095-b473-3ca9cea63e6e"
   }
-}</component>
+}]]></component>
   <component name="HttpClientOnboardingState">{
   &quot;isOnboardingCommentShown&quot;: true
 }</component>
@@ -100,9 +107,9 @@
     "Spring Boot.PharmacyApplication.executor": "Run",
     "Spring Boot.ProfileMsApplication.executor": "Run",
     "Spring Boot.UserMsApplication.executor": "Run",
-    "git-widget-placeholder": "dockerfile1",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/devar/Downloads/Hms Project/HMS/Backend/Appointment",
+    "last_opened_file_path": "C:/Users/devar/Downloads/HMS/BACKEND/Backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -236,9 +243,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.UserMsApplication" />
         <item itemvalue="Spring Boot.ProfileMsApplication" />
         <item itemvalue="Spring Boot.PharmacyApplication" />
+        <item itemvalue="Spring Boot.UserMsApplication" />
         <item itemvalue="Spring Boot.GatewayMsApplication" />
         <item itemvalue="HTTP Request.generated-requests | #2" />
       </list>
